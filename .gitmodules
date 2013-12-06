@@ -1,0 +1,3 @@
+[submodule "modulea"]
+	path = modulea
+	url = git@github.com:rageshkrishna/modulea.git
